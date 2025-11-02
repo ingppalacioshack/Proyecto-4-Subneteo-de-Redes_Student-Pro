@@ -1,9 +1,10 @@
 ======================
 Pasos:
-1. Crea el diagrama de red como la imagen, respeta cada equipo añadido.
-2. Copia la configuración de cada equipo que te dejo aquí y pega en tús equipos en el mismo orden en packet tracer.
+1. Crea el diagrama de red en packet tracer como la imagen que he dejado aquí, respeta cada equipo añadido.
+2. Copia la configuración de cada equipo que te dejo aquí y pega en tús equipos nuevos en el mismo orden en packet tracer.
 
 ======================
+Ver configuración:
 show running-config
 ======================
 
