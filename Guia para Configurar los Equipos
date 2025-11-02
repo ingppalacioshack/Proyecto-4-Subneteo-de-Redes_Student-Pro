@@ -1,10 +1,9 @@
 ======================
 Pasos:
 1. Crea el diagrama de red como la imagen, respeta cada equipo añadido.
-2. Copiar configuración de cada equipo y pega en tús equipos en el mismo orden en packet tracer.
-y subirlo a otro Router 2911 nuevo.
-======================
+2. Copia la configuración de cada equipo que te dejo aquí y pega en tús equipos en el mismo orden en packet tracer.
 
+======================
 show running-config
 ======================
 
