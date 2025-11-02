@@ -23,3 +23,6 @@ Guardar:
 copy running-config startup-config
 Enter
 ======================
+
+Esta Red como debes saber tiene sus restricciones típicas del subneteo. 
+Cada Switch se ha configurado con su Vlan para su subred.
