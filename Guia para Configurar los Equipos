@@ -23,5 +23,8 @@ copy running-config startup-config
 Enter
 ======================
 
+Los Host los debes configurar manualmente con su IP, submáscara, puerta de enlace de cada Vlan o Subred y dns 0.0.0.0
+======================
+
 Esta Red como debes saber tiene sus restricciones típicas del subneteo. 
 Cada Switch se ha configurado con su Vlan para su subred.
